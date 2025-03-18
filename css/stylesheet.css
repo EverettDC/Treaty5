@@ -1,0 +1,16 @@
+/*A stylesheet for CSS that effects all of the webpages in the Treaty5 website*/
+body {
+    background-color: beige;    
+}
+main {
+    font-family: sans-serif;
+    text-align: center;
+}
+nav {
+    background-color: #006400;
+}
+li {
+    font-size: large;
+    display: inline;
+    padding: 16px;
+}
