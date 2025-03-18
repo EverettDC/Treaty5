@@ -13,4 +13,9 @@ li {
     font-size: large;
     display: inline;
     padding: 16px;
+    margin: 16px;
+}
+p {
+    font-family: papyrus;
+    
 }
