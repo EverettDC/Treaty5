@@ -1,13 +1,23 @@
+/*
+ _____  _ _  ___   __ _  _____  _ _     
+|_   _|| '_// -_) / _` ||_   _|\ v /    
+  |_|  |_|  \___| \__,_|  |_|   |_| 
+*/
 /*A stylesheet for CSS that effects all of the webpages in the Treaty5 website*/
+/*COLOR THEORY NOTE
+For the background color I chose beige because its a light color and it contrasts well with most colors 
+and i chose the green because it contrasts and pops (I'm fairly sure i does at least).*/
 body {
     background-color: beige;    
 }
 main {
     font-family: sans-serif;
+}
+div {
     text-align: center;
 }
 nav {
-    background-color: #006400;
+    background-color: limegreen;
 }
 li {
     font-size: large;
@@ -15,7 +25,9 @@ li {
     padding: 16px;
     margin: 16px;
 }
-p {
-    font-family: papyrus;
-    
+img {
+    border-width: 5px;
+}
+* {
+    font-family: sans-serif;
 }
